@@ -1,0 +1,27 @@
+h1 {
+    font-size: 230%;
+    padding-left: 3%;
+    text-decoration: underline;
+}
+
+.kaverilista-button{
+    padding-left: 3%;
+    font-size: larger;
+    padding-top: 1%;
+}
+
+p {
+    font-size: large;
+    padding-left: 3%;
+}
+
+button {
+}
+
+li {
+    margin-left: 3%;
+}
+
+input {
+    margin-left: 3%;
+}
